@@ -19,4 +19,3 @@ An AI-powered agent QA for a hotel
 ## Lessons Learned
 - Learned about prompt engineering
 - Boundaries for Agent
-- 
